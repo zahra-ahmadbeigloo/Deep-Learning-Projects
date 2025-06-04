@@ -1,7 +1,7 @@
 ### **Fashion MNIST Classification with CNN built with:**
 
 * **Python** for model development and training
-* **TensorFlow** & **Keras** for building and training the CNN
+* **Pytorch** for building and training the CNN
 * **Matplotlib** for visualization
 * **NumPy** for array manipulation and preprocessing
 * **Fashion-MNIST dataset** for image-based fashion category classification
